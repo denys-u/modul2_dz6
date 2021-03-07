@@ -4,7 +4,7 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public enum ManufacturerCountry
+    public enum CreatedCountry
     {
         France,
         Germany,
