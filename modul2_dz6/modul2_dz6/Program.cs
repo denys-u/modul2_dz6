@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace modul2_dz6
+namespace Modul2_dz6
 {
     class Program
     {

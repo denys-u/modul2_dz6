@@ -4,13 +4,10 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public enum CarBrands
+    public enum ManufacturerCountry
     {
-        Volkswagen,
-        Peugeot,
-        Renault,
-        Toyota,
-        Honda,
-        Suzuki
+        France,
+        Germany,
+        Japan
     }
 }
