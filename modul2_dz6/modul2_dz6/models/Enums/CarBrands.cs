@@ -6,11 +6,11 @@
 
     public enum CarBrands
     {
-        Volkswagen,
-        Peugeot,
-        Renault,
-        Toyota,
-        Honda,
-        Suzuki
+        Volkswagen_Golf,
+        Peugeot_Soren,
+        Renault_Logan,
+        Toyota_Corolla,
+        Honda_Civic,
+        Suzuki_Baleno
     }
 }
