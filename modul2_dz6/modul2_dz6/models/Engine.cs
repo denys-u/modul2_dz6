@@ -11,5 +11,7 @@
             :base(price, country, brand)
         { 
         }
+
+        public double FuelConsumption { get; }
     }
 }
