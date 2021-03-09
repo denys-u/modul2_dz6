@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Modul2_dz6.Services
 {
-    public class TaxiService: ITaxiServise
+    public class TaxiService: ITaxiService
     {
         public TaxiService()
         {

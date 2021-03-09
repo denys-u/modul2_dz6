@@ -5,7 +5,7 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public interface ITaxiServise
+    public interface ITaxiService
     {
         TaxiPark ShowTaxiPark();
     }
