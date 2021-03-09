@@ -1,4 +1,4 @@
-﻿namespace modul2_dz6.models.Cars
+﻿namespace Modul2_dz6.models.Cars
 {
     using Modul2_dz6.Enums;
     using Modul2_dz6.models;

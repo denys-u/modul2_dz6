@@ -1,4 +1,4 @@
-﻿namespace modul2_dz6.models.Cars
+﻿namespace Modul2_dz6.models.Cars
 {
     using Modul2_dz6.Enums;
     using Modul2_dz6.models;
@@ -15,9 +15,9 @@
         }
 
         public CreatedCountry CreatedCountry => CreatedCountry.France;
-        public ClassofCar ClassofCar => ClassofCar.D;
-        public override string Name => "Peugeot";
-        public override double Price => 490000;
-        public CarBrands CarBrands => CarBrands.Peugeot_Soren;
+        public ClassofCar ClassofCar => ClassofCar.B;
+        public override string Name => "Renault";
+        public override double Price => 213400;
+        public CarBrands CarBrands => CarBrands.Renault_Logan;
     }
 }
