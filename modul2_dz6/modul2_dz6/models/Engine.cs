@@ -6,6 +6,7 @@
     using System;
     using System.Collections.Generic;
     using System.Text;
+
     public class Engine : Car
     {
         protected Engine(string name, double price, CreatedCountry country, CarBrands brand, ClassofCar carClass)
@@ -13,6 +14,6 @@
         { 
         }
 
-        public double FuelConsumption { get; }
+        public virtual double FuelConsumption { get; }
     }
 }

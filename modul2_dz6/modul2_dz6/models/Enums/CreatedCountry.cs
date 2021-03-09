@@ -8,6 +8,6 @@
     {
         France,
         Germany,
-        Japan
+        Japan,
     }
 }
