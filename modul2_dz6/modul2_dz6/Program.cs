@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace modul2_dz6
+﻿namespace Modul2_dz6
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
