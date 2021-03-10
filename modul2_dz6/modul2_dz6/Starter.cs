@@ -1,6 +1,6 @@
 ﻿namespace Modul2_dz6
 {
-    using modul2_dz6.Helpers.Extentions;
+    using Modul2_dz6.Helpers.Extentions;
     using Modul2_dz6.Enums;
     using Modul2_dz6.Helpers;
     using Modul2_dz6.Services;
