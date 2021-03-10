@@ -2,10 +2,9 @@
 {
     using Modul2_dz6.models;
     using Modul2_dz6.models.Cars;
+    using Modul2_dz6.Models;
+    using Modul2_dz6.Models.Cars;
     using Modul2_dz6.Result;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     public class TaxiService: ITaxiService
     {

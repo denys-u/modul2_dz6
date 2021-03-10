@@ -5,12 +5,11 @@
     using Modul2_dz6.Helpers;
     using Modul2_dz6.Services;
     using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     public class Starter
     {
         private readonly ITaxiService taxiService;
+
         public Starter()
         {
             taxiService = new TaxiService();

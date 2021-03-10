@@ -6,7 +6,7 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public class CarComparer: IComparer
+    public class CarComparer : IComparer
     {
         public int Compare(object first, object second)
         {

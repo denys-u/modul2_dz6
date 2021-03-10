@@ -1,4 +1,4 @@
-﻿namespace Modul2_dz6.models.Enums
+﻿namespace Modul2_dz6.Models.Enums
 {
     using System;
     using System.Collections.Generic;

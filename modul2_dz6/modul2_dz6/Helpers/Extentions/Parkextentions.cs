@@ -3,9 +3,6 @@
     using Modul2_dz6.models;
     using Modul2_dz6.models.Enums;
     using Modul2_dz6.Result;
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
 
     public static class Parkextentions
     {
